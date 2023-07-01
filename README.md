@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Grannyza**
 
-- 🌱 I’m currently learning **Jinja, API**
+- 🌱 I’m currently learning **Jinja, Django**
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **javascript, Python**
 
 - 📫 How to reach me **rameshmarthi999@gmail.com**
 
