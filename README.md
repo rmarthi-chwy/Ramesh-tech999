@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ramesh Marthi</h1>
 <h3 align="center">A passionate Frappe, ERPNext developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://freight.cargo.site/t/original/i/ed49fde53ebe6f1b112de8c8d76ff891c37e7fd8cb5fee157b0e7d3f6b1af942/Flushed_488_12fps.gif" >
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJlcm82cmQ5dWtvZGVxemdmemZpeWkzb2Z0Ynl2MHFod2x6N284ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh-tech999&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh-tech999" /> </p>
 
